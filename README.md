@@ -24,3 +24,39 @@ Telegram channel as a Bot. Something like this - https://telegram.me/vkm_bot. It
 Top! - https://github.com/julia-/room-booking-system
 
 https://github.com/search?l=JavaScript&q=booking&type=Repositories
+
+
+
+
+---
+
+## Calendar
+
+More green
+More fancy
+Popup with details
+Link to book a call with our Vice President
+
+Deploy to GitHub. not on some subdomains
+Add Report example(mb Comet ML)?
+Setup correct GitHub Workflow
+
+Add Legend
+Migrate to nodejs/react app
+Move to real subdomain, open to public
+connect with our old HTML Letters
+download noonifications archive/upload to GitHub
+
+
+Add section with details. like help stuff.
+
+
+types 
+ - empty slot noonification
+ - empty slot thematic
+ - booked thematic
+ - open slot thematic
+ - open slot Noonnoonif
+ - blocked by %Name%
+
+
